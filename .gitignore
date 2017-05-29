@@ -42,4 +42,7 @@ bower.json
 
 # Ignore Byebug command history file.
 .byebug_history
+<<<<<<< HEAD
 /config/database.yml
+=======
+>>>>>>> fc1100b610e0754136555c9aa109215a6b5bb258
